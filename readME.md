@@ -17,7 +17,7 @@ It was built primarily to trim **CS2 (Counter-Strike 2)** gameplay clips recorde
 - High-quality export using **FFmpeg (H.264 + AAC)**
 - Optional deletion of the original clip after export
 - Keyboard shortcuts for fast workflow
-- Windows `.exe` build for easy sharing
+- Windows `.exe` build in `/dist`.
 
 ---
 
@@ -61,8 +61,10 @@ Clip Tool was created to speed up the process of:
 - Windows (tested)
 - FFmpeg (handled automatically)
 
-### Install dependencies
+## 🤖 AI Usage Disclosure
 
-```bash
-pip install -r requirements.txt
-```
+AI assistance (ChatGPT) was used sparingly as a learning and troubleshooting aid. All core functionality, architecture, and implementation decisions were made manually. AI was not used to generate the project wholesale, but to clarify concepts, debug issues, and accelerate learning. Overall AI usage was low.
+
+### Author
+
+Anti Sults
