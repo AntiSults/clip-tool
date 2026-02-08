@@ -65,6 +65,6 @@ Clip Tool was created to speed up the process of:
 
 AI assistance (ChatGPT) was used sparingly as a learning and troubleshooting aid. All core functionality, architecture, and implementation decisions were made manually. AI was not used to generate the project wholesale, but to clarify concepts, debug issues, and accelerate learning. Overall AI usage was low.
 
-### Author
+## Author
 
 Anti Sults
